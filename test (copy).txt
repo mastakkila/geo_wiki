@@ -1,6 +1,499 @@
-pageid,title,coordinates,timestamp,revid,comment
-1000,,,2016-02-26T05:39:04Z,706953291,
-1000,,,2016-02-13T03:01:12Z,704709963,/* David Suchet */
-1000,,,2016-02-13T02:58:14Z,704709611,/* Policeman */ Fixed typo
-1000,,,2016-02-13T02:54:22Z,704709152,/* Policeman */
-1000,,,2016-02-13T02:51:48Z,704708881,/* Policeman */ Corrected style
+pageid,title,lat,lon,timestamp,revid,comment
+38008834,"Embassy of Denmark, Kiev",50.4495,30.4977,2013-09-14T09:20:37Z,572862776,
+38008834,"Embassy of Denmark, Kiev",50.4495,30.4977,2013-09-14T09:19:38Z,572862701,/* Previous Ambassadors */
+38008834,"Embassy of Denmark, Kiev",50.4495,30.4977,2013-03-22T22:16:45Z,546407693,"Bot: Migrating 1 langlinks, now provided by Wikidata on [[d:Q1592026]]"
+38008834,"Embassy of Denmark, Kiev",50.4495,30.4977,2013-02-04T20:17:11Z,536573706,clean up using [[Project:AWB|AWB]] (8884)
+38008834,"Embassy of Denmark, Kiev",50.4495,30.4977,2012-12-23T23:11:18Z,529507309,add coordinates (based on the address given in this article)
+14657163,Ukrainian Catholic Major Archeparchy of Kiev–Galicia,50.45,30.5,2015-10-25T19:18:55Z,687462998,
+14657163,Ukrainian Catholic Major Archeparchy of Kiev–Galicia,50.45,30.5,2015-04-13T02:22:28Z,656211561,Swap infobox per [[Wikipedia:Templates for discussion/Log/2015 April 2#Template:Infobox Ukrainian Catholic Eparchy|TfD outcome]]
+14657163,Ukrainian Catholic Major Archeparchy of Kiev–Galicia,50.45,30.5,2014-08-16T21:25:47Z,621538054,Adding geodata: {{coord|50.4500|N|30.5000|E|source:wikidata|display=title}}
+14657163,Ukrainian Catholic Major Archeparchy of Kiev–Galicia,50.45,30.5,2014-01-24T18:55:05Z,592211527,
+14657163,Ukrainian Catholic Major Archeparchy of Kiev–Galicia,50.45,30.5,2013-12-20T16:37:03Z,586971228,
+41138979,Ukrainian People's Republic,50.45,30.5,2016-01-27T15:00:49Z,701950237,
+41138979,Ukrainian People's Republic,50.45,30.5,2016-01-23T15:01:42Z,701264554,
+41138979,Ukrainian People's Republic,50.45,30.5,2016-01-23T07:54:54Z,701229451,section needs more references
+41138979,Ukrainian People's Republic,50.45,30.5,2016-01-21T03:29:18Z,700869114,/* top */
+41138979,Ukrainian People's Republic,50.45,30.5,2016-01-09T12:19:21Z,698973137,/* Autumn 1917 */
+376732,Ukrainian Soviet Socialist Republic,50.45,30.5,2016-03-01T00:54:52Z,707647945,Undid revision 707612983 by [[Special:Contributions/89.240.142.181|89.240.142.181]] ([[User talk:89.240.142.181|talk]])
+376732,Ukrainian Soviet Socialist Republic,50.45,30.5,2016-02-29T20:56:10Z,707612983,i am a stalinist
+376732,Ukrainian Soviet Socialist Republic,50.45,30.5,2016-02-23T13:44:28Z,706465011,Reverted to revision 703511226 by [[Special:Contributions/81.151.92.181|81.151.92.181]] ([[User talk:81.151.92.181|talk]]): Spamming occurred after this edit. ([[WP:TW|TW]])
+376732,Ukrainian Soviet Socialist Republic,50.45,30.5,2016-02-23T05:33:51Z,706416117,
+376732,Ukrainian Soviet Socialist Republic,50.45,30.5,2016-02-23T05:32:29Z,706415981,
+37859613,Apostolic Nunciature to Ukraine,50.4518,30.4927,2015-11-19T00:47:44Z,691311294,/* Apostolic Nuncios */
+37859613,Apostolic Nunciature to Ukraine,50.4518,30.4927,2015-11-19T00:47:21Z,691311251,New Nuncio
+37859613,Apostolic Nunciature to Ukraine,50.4518,30.4927,2015-04-30T03:30:55Z,659991520,
+37859613,Apostolic Nunciature to Ukraine,50.4518,30.4927,2014-03-22T18:14:43Z,600762835,add coordinates (from OpenStreetMap)
+37859613,Apostolic Nunciature to Ukraine,50.4518,30.4927,2013-09-22T23:08:24Z,574107155,/* Previous Apostolic Nuncio */
+7791004,Lvivska Brama (Kiev Metro),50.454347222222,30.503013888889,2015-02-01T00:26:05Z,645069551,ordinals not normally used for dates ([[WP:DATESNO]])
+7791004,Lvivska Brama (Kiev Metro),50.454347222222,30.503013888889,2015-01-22T01:16:54Z,643601765,/* External links */ merge
+7791004,Lvivska Brama (Kiev Metro),50.454347222222,30.503013888889,2015-01-22T00:41:09Z,643597722,/* External links */ Special cat
+7791004,Lvivska Brama (Kiev Metro),50.454347222222,30.503013888889,2014-07-29T05:46:17Z,618926501,"Replace unicode entity nbsp for character [NBSP] (or space)  per [[WP:NBSP]] + other fixes, replaced: →   (4) using [[Project:AWB|AWB]] (10331)"
+7791004,Lvivska Brama (Kiev Metro),50.454347222222,30.503013888889,2014-07-02T04:56:53Z,615249749,"[[User:Ohconfucius/script|Script]]-assisted fixes: per [[MOS:NUM]], [[MOS:CAPS]], [[MOS:LINK]]"
+11253606,Peremohy Square,50.4469,30.4922,2015-05-03T17:00:39Z,660613120,"/* References */cleanup class ""references-small"" (class was deleted 21 Dec 2010) using [[Project:AWB|AWB]]"
+11253606,Peremohy Square,50.4469,30.4922,2015-03-22T14:01:44Z,653013047,Ukrainian National transliteration
+11253606,Peremohy Square,50.4469,30.4922,2014-05-26T03:05:14Z,610154405,"Bot: Migrating 1 interwiki links, now provided by [[Wikipedia:Wikidata|Wikidata]] on [[d:Q2656831]]"
+11253606,Peremohy Square,50.4469,30.4922,2014-05-06T10:31:53Z,607306163,"Typo fixing, replaced: Before 1950s → Before the 1950s, of 1940s → of the 1940s using [[Project:AWB|AWB]]"
+11253606,Peremohy Square,50.4469,30.4922,2014-03-29T01:14:18Z,601742032,[[WP:CHECKWIKI]] error fixes + other fixes using [[Project:AWB|AWB]] (10065)
+37999005,"Embassy of Belarus, Kiev",50.4467,30.5039,2014-03-22T18:03:34Z,600761522,add coordinates (from OpenStreetMap)
+37999005,"Embassy of Belarus, Kiev",50.4467,30.5039,2013-03-23T00:01:31Z,546430406,"[[User:Addbot|Bot:]] Migrating 2 interwiki links, now provided by [[Wikipedia:Wikidata|Wikidata]] on [[d:q1532317]]"
+37999005,"Embassy of Belarus, Kiev",50.4467,30.5039,2013-02-04T20:16:35Z,536573598,clean up using [[Project:AWB|AWB]] (8884)
+37999005,"Embassy of Belarus, Kiev",50.4467,30.5039,2012-12-22T10:27:30Z,529256725,/* External links */
+37999005,"Embassy of Belarus, Kiev",50.4467,30.5039,2012-12-22T10:22:43Z,529256263,/* History */
+4821049,"National University of Theatre, Film and TV in Kiev",50.453888888889,30.506944444444,2015-11-08T11:23:17Z,689624269,"Removing ""Kiev_Theatral_University.JPG"", it has been deleted from Commons by [[commons:User:JuTa|JuTa]] because: [[:c:COM:OTRS|No permission]] since 31 October 2015."
+4821049,"National University of Theatre, Film and TV in Kiev",50.453888888889,30.506944444444,2015-10-11T14:42:47Z,685207922,removed [[Category:1899 establishments in Ukraine]]; added [[Category:1899 establishments in Russia]] using [[WP:HC|HotCat]]
+4821049,"National University of Theatre, Film and TV in Kiev",50.453888888889,30.506944444444,2015-07-15T06:25:04Z,671519468,added [[Category:1899 establishments in Ukraine]] using [[WP:HC|HotCat]]
+4821049,"National University of Theatre, Film and TV in Kiev",50.453888888889,30.506944444444,2015-07-15T06:24:31Z,671519420,added [[Category:Educational institutions established in 1899]] using [[WP:HC|HotCat]]
+4821049,"National University of Theatre, Film and TV in Kiev",50.453888888889,30.506944444444,2015-04-10T13:51:00Z,655831494,
+38001081,"Embassy of Italy, Kiev",50.4528,30.5082,2015-05-20T20:25:14Z,663308623,
+38001081,"Embassy of Italy, Kiev",50.4528,30.5082,2014-03-22T18:10:26Z,600762329,add coordinates (from OpenStreetMap)
+38001081,"Embassy of Italy, Kiev",50.4528,30.5082,2013-03-22T08:54:29Z,546232995,"Bot: Migrating 1 langlinks, now provided by Wikidata on [[d:Q1532191]]"
+38001081,"Embassy of Italy, Kiev",50.4528,30.5082,2013-02-04T20:16:46Z,536573629,clean up using [[Project:AWB|AWB]] (8884)
+38001081,"Embassy of Italy, Kiev",50.4528,30.5082,2012-12-22T18:18:56Z,529310833,/* Previous Ambassadors */
+35995217,"Embassy of France, Kiev",50.453888888889,30.508055555556,2015-09-17T07:42:28Z,681444657,
+35995217,"Embassy of France, Kiev",50.453888888889,30.508055555556,2015-09-04T12:53:41Z,679417597,/* History */
+35995217,"Embassy of France, Kiev",50.453888888889,30.508055555556,2015-07-09T05:41:45Z,670633511,/* External links */
+35995217,"Embassy of France, Kiev",50.453888888889,30.508055555556,2014-07-10T12:03:03Z,616362814,"/* See also */ Adjusted entry for ""France–Ukraine relations"" article."
+35995217,"Embassy of France, Kiev",50.453888888889,30.508055555556,2014-02-24T09:24:18Z,596891444,Alain Rémy
+33205384,Ploshcha Peremohy (Kiev Light Rail),50.44625,30.488333333333,2014-04-18T01:28:48Z,604675379,fix
+33205384,Ploshcha Peremohy (Kiev Light Rail),50.44625,30.488333333333,2014-04-16T18:56:56Z,604486715,template
+33205384,Ploshcha Peremohy (Kiev Light Rail),50.44625,30.488333333333,2013-03-22T08:27:26Z,546227818,"[[User:Addbot|Bot:]] Migrating 2 interwiki links, now provided by [[Wikipedia:Wikidata|Wikidata]] on [[d:q4365717]]"
+33205384,Ploshcha Peremohy (Kiev Light Rail),50.44625,30.488333333333,2011-12-09T05:13:51Z,464902750,style
+33205384,Ploshcha Peremohy (Kiev Light Rail),50.44625,30.488333333333,2011-12-08T03:55:01Z,464697565,station moved + wrong image + remove redundancy + commons + cleanup
+15756094,Galitska Synagogue,50.445833333333,30.488055555556,2014-12-30T12:36:16Z,640231532,
+15756094,Galitska Synagogue,50.445833333333,30.488055555556,2014-11-18T00:23:45Z,634301367,/* History */
+15756094,Galitska Synagogue,50.445833333333,30.488055555556,2014-11-17T21:22:38Z,634278400,"cat., images, links"
+15756094,Galitska Synagogue,50.445833333333,30.488055555556,2013-12-17T08:21:52Z,586463458,fix
+15756094,Galitska Synagogue,50.445833333333,30.488055555556,2013-04-16T22:10:57Z,550712623,
+2280883,A.V. Fomin Botanical Garden,50.4441,30.5057,2016-02-26T13:46:39Z,707003859,
+2280883,A.V. Fomin Botanical Garden,50.4441,30.5057,2016-01-07T15:53:53Z,698676273,/* History */ de-however-ing
+2280883,A.V. Fomin Botanical Garden,50.4441,30.5057,2016-01-07T15:51:31Z,698675877,
+2280883,A.V. Fomin Botanical Garden,50.4441,30.5057,2014-10-06T17:43:02Z,628508812,added link to Aleksandr Vasiljevich Fomin article
+2280883,A.V. Fomin Botanical Garden,50.4441,30.5057,2014-07-16T11:35:49Z,617169419,/* Directors */ removed fomin note wrong fomin same country - different dates https://es.wikipedia.org/wiki/Aleksandr_Fom%C3%ADn
+37571028,National Pedagogical Dragomanov University,50.444722222222,30.506944444444,2016-02-19T20:52:16Z,705834397,added [[Category:Educational institutions established in 1834]] using [[WP:HC|HotCat]]
+37571028,National Pedagogical Dragomanov University,50.444722222222,30.506944444444,2016-02-19T20:52:02Z,705834367,"new key for [[Category:National Pedagogical Dragomanov University]]: "" "" using [[WP:HC|HotCat]]"
+37571028,National Pedagogical Dragomanov University,50.444722222222,30.506944444444,2015-06-25T15:27:06Z,668627718,
+37571028,National Pedagogical Dragomanov University,50.444722222222,30.506944444444,2015-04-26T07:44:04Z,659259372,[[WP:CHECKWIKI]] error fix for #03.  Missing Reflist.  Do [[Wikipedia:GENFIXES|general fixes]] if a problem exists. - using [[Project:AWB|AWB]] (10901)
+37571028,National Pedagogical Dragomanov University,50.444722222222,30.506944444444,2015-04-25T10:39:30Z,659120747,gave list of honorary doctors etc a more comprehensive look
+4883901,Universytet (Kiev Metro),50.444166666667,30.506111111111,2016-02-28T15:14:30Z,707382666,
+4883901,Universytet (Kiev Metro),50.444166666667,30.506111111111,2016-01-20T18:01:02Z,700797044,typo
+4883901,Universytet (Kiev Metro),50.444166666667,30.506111111111,2015-11-04T00:07:37Z,688942948,Robot - Removing category Things named after Taras Shevchenko per [[WP:CFD|CFD]] at [[Wikipedia:Categories for discussion/Log/2015 October 27]].
+4883901,Universytet (Kiev Metro),50.444166666667,30.506111111111,2015-07-03T06:19:39Z,669743942,removed [[Category:Things named a]]; added [[Category:Things named after Taras Shevchenko]] using [[WP:HC|HotCat]]
+4883901,Universytet (Kiev Metro),50.444166666667,30.506111111111,2015-07-03T06:19:32Z,669743931,added [[Category:Things named a]] using [[WP:HC|HotCat]]
+15801565,Karaite Kenesa (Kiev),50.45,30.511111111111,2014-12-24T00:32:19Z,639407670,/* History */   link
+15801565,Karaite Kenesa (Kiev),50.45,30.511111111111,2013-04-16T22:11:19Z,550712670,
+15801565,Karaite Kenesa (Kiev),50.45,30.511111111111,2013-02-26T18:58:25Z,540710929,"[[User:Addbot|Bot:]] Migrating 6 interwiki links, now provided by [[Wikipedia:Wikidata|Wikidata]] on [[d:q787448]] ([[User talk:Addbot|Report Errors]])"
+15801565,Karaite Kenesa (Kiev),50.45,30.511111111111,2013-02-08T00:38:56Z,537139425,/* References */ More specific category
+15801565,Karaite Kenesa (Kiev),50.45,30.511111111111,2012-11-28T21:56:11Z,525425266,Fix [[WP:DPL|links]] to [[WP:D|disambiguation]] page [[Karaite]]
+33205436,Starovokzalna (Kiev Light Rail),50.443888888889,30.489166666667,2014-04-18T01:30:02Z,604675497,fix
+33205436,Starovokzalna (Kiev Light Rail),50.443888888889,30.489166666667,2014-04-16T18:57:59Z,604486844,template
+33205436,Starovokzalna (Kiev Light Rail),50.443888888889,30.489166666667,2013-03-22T08:27:36Z,546227851,"[[User:Addbot|Bot:]] Migrating 2 interwiki links, now provided by [[Wikipedia:Wikidata|Wikidata]] on [[d:q4440168]]"
+33205436,Starovokzalna (Kiev Light Rail),50.443888888889,30.489166666667,2011-12-09T05:13:07Z,464902656,style
+33205436,Starovokzalna (Kiev Light Rail),50.443888888889,30.489166666667,2011-12-08T03:40:35Z,464695748,remove redundancy + commons + cleanup
+28749622,Lukyanivka (neighborhood),50.4575,30.489166666667,2015-10-23T17:34:15Z,687157676,
+28749622,Lukyanivka (neighborhood),50.4575,30.489166666667,2014-11-17T15:47:40Z,634233370,"added history, with refs"
+28749622,Lukyanivka (neighborhood),50.4575,30.489166666667,2013-09-10T10:37:07Z,572325183,link
+28749622,Lukyanivka (neighborhood),50.4575,30.489166666667,2013-03-08T15:42:50Z,542829029,"[[User:Addbot|Bot:]] Migrating 3 interwiki links, now provided by [[Wikipedia:Wikidata|Wikidata]] on [[d:q2082576]]"
+28749622,Lukyanivka (neighborhood),50.4575,30.489166666667,2011-08-28T02:50:39Z,447077263,"r2.5.4) (robot Modifying: [[be:Лук'янаўка, Кіеў]]"
+13518996,"Sports Ground, Kiev",50.457666666667,30.489166666667,2014-09-03T17:58:57Z,624042766,Removing Link GA template ([[d:Wikidata:Development plan#Badges|handled by wikidata]])
+13518996,"Sports Ground, Kiev",50.457666666667,30.489166666667,2014-06-26T12:58:16Z,614501539,"/* First All-Russian Olympiad */clean up from page move, replaced: [[weight-lifting]] → [[Olympic weightlifting|weight-lifting]] using [[Project:AWB|AWB]]"
+13518996,"Sports Ground, Kiev",50.457666666667,30.489166666667,2014-05-03T15:26:51Z,606908266,[[MOS:DATEUNIFY]]
+13518996,"Sports Ground, Kiev",50.457666666667,30.489166666667,2013-02-20T13:00:58Z,539222569,"[[User:Addbot|Bot:]] Migrating 4 interwiki links, now provided by [[Wikipedia:Wikidata|Wikidata]] on [[d:q2387920]] ([[User talk:Addbot|Report Errors]])"
+13518996,"Sports Ground, Kiev",50.457666666667,30.489166666667,2012-12-22T12:13:13Z,529266300,Readd category
+37985113,"Embassy of Poland, Kiev",50.45,30.511944444444,2014-10-22T19:56:21Z,630694473,/* Previous Ambassadors */
+37985113,"Embassy of Poland, Kiev",50.45,30.511944444444,2013-05-10T18:02:23Z,554478206,Adding geodata: {{coord|50|27|00|N|30|30|43|E|type:landmark_source:kolossus-ruwiki|display=title}}
+37985113,"Embassy of Poland, Kiev",50.45,30.511944444444,2013-03-07T21:27:06Z,542676050,"[[User:Addbot|Bot:]] Migrating 3 interwiki links, now provided by [[Wikipedia:Wikidata|Wikidata]] on [[d:q1397680]]"
+37985113,"Embassy of Poland, Kiev",50.45,30.511944444444,2013-01-25T01:51:46Z,534753400,Adding geodata: {{coord missing|Poland}}
+37985113,"Embassy of Poland, Kiev",50.45,30.511944444444,2012-12-21T03:50:33Z,529064157,cleaning up new articles using [[Project:AWB|AWB]] (8759)
+2000954,St Volodymyr's Cathedral,50.444722222222,30.508888888889,2016-02-25T14:02:15Z,706823061,
+2000954,St Volodymyr's Cathedral,50.444722222222,30.508888888889,2015-12-24T00:58:24Z,696566636,Removing links to deleted file [[:File:Vladimirskiy Sobor Vintage Photo.jpg]]
+2000954,St Volodymyr's Cathedral,50.444722222222,30.508888888889,2015-08-19T23:30:15Z,676914426,/* History and Description */
+2000954,St Volodymyr's Cathedral,50.444722222222,30.508888888889,2015-08-19T19:34:02Z,676885090,/* History and Description */
+2000954,St Volodymyr's Cathedral,50.444722222222,30.508888888889,2015-08-18T23:22:17Z,676754509,/* History and Description */ name
+37485963,"Embassy of Germany, Kiev",50.446111111111,30.511111111111,2014-11-27T10:01:23Z,635632315,/* External links */
+37485963,"Embassy of Germany, Kiev",50.446111111111,30.511111111111,2013-11-24T13:51:08Z,583091017,cleanup
+37485963,"Embassy of Germany, Kiev",50.446111111111,30.511111111111,2013-10-13T23:48:55Z,577059432,no need for persondata here -- subject has own article. Add coords {{coord|50|26|46|N|30|30|40|E|region:UA-30_type:landmark_source:kolossus-dewiki|display=title}}
+37485963,"Embassy of Germany, Kiev",50.446111111111,30.511111111111,2013-03-22T22:59:09Z,546416668,"[[User:Addbot|Bot:]] Migrating 2 interwiki links, now provided by [[Wikipedia:Wikidata|Wikidata]] on [[d:q387050]]"
+37485963,"Embassy of Germany, Kiev",50.446111111111,30.511111111111,2012-12-11T15:38:32Z,527545988,"new key for [[Category:Diplomatic missions of Germany]]: ""Kiev"" using [[WP:HC|HotCat]]"
+2598964,"Golden Gate, Kiev",50.448888888889,30.513333333333,2016-02-26T15:15:01Z,707018777,
+2598964,"Golden Gate, Kiev",50.448888888889,30.513333333333,2016-02-12T12:30:24Z,704599622,
+2598964,"Golden Gate, Kiev",50.448888888889,30.513333333333,2016-01-12T17:14:38Z,699488314,Undid revision 693155198 by [[Special:Contributions/46.219.250.171|46.219.250.171]] ([[User talk:46.219.250.171|talk]]) See [[WP:COMMONNAME]] and [[Talk:Kiev/naming]]
+2598964,"Golden Gate, Kiev",50.448888888889,30.513333333333,2015-11-30T19:58:12Z,693155198,
+2598964,"Golden Gate, Kiev",50.448888888889,30.513333333333,2015-10-27T19:19:44Z,687789657,Bot: Removing [[Commons:File:Yaroslav the Wise Monument in Kiev.jpg]] ([[:File:Yaroslav the Wise Monument in Kiev.jpg|en]]). It was deleted on Commons by [[:Commons:User:Natuur12|Natuur12]] (Per [[Commons:Commons:Deletion requests/Files in Category:Yar...
+7827211,Zoloti Vorota (Kiev Metro),50.448333333333,30.513333333333,2015-07-14T06:41:27Z,671365330,Adding Good Article icon
+7827211,Zoloti Vorota (Kiev Metro),50.448333333333,30.513333333333,2015-07-14T06:22:35Z,671363671,/* Service */ mosnum
+7827211,Zoloti Vorota (Kiev Metro),50.448333333333,30.513333333333,2015-07-14T06:22:03Z,671363610,/* Service */ no need to repeat
+7827211,Zoloti Vorota (Kiev Metro),50.448333333333,30.513333333333,2015-07-14T06:21:19Z,671363546,/* Service */ no need
+7827211,Zoloti Vorota (Kiev Metro),50.448333333333,30.513333333333,2015-07-13T19:15:16Z,671295150,/* Service */ tidy
+12882184,Hillsong Church Kiev,50.448125,30.513397222222,2016-01-16T11:03:51Z,700096390,/* Ministries */
+12882184,Hillsong Church Kiev,50.448125,30.513397222222,2016-01-16T11:02:51Z,700096307,/* Ministries */
+12882184,Hillsong Church Kiev,50.448125,30.513397222222,2015-10-19T12:18:32Z,686488419,"/* History */clean up, [[WP:AWB/T|typo(s) fixed]]: 700 seat → 700-seat using [[Project:AWB|AWB]]"
+12882184,Hillsong Church Kiev,50.448125,30.513397222222,2015-09-25T04:42:43Z,682659928,Dating maintenance tags: {{Needcitation}}
+12882184,Hillsong Church Kiev,50.448125,30.513397222222,2015-09-25T04:22:24Z,682658450,added [[Category:Pentecostalism in Ukraine]] using [[WP:HC|HotCat]]
+4815713,Vokzalna (Kiev Metro),50.441666666667,30.488055555556,2015-10-18T14:55:54Z,686337297,/* External links */
+4815713,Vokzalna (Kiev Metro),50.441666666667,30.488055555556,2015-04-28T16:23:41Z,659705426,"/* External links */cleanup <div class=""references-small""> using [[Project:AWB|AWB]]"
+4815713,Vokzalna (Kiev Metro),50.441666666667,30.488055555556,2014-07-02T04:45:30Z,615248937,"[[User:Ohconfucius/script|Script]]-assisted fixes: per [[MOS:NUM]], [[MOS:CAPS]], [[MOS:LINK]]"
+4815713,Vokzalna (Kiev Metro),50.441666666667,30.488055555556,2013-12-26T14:15:04Z,587746360,[[WP:AWB/T|Typo fixing]]  and general fixes using [[Project:AWB|AWB]]
+4815713,Vokzalna (Kiev Metro),50.441666666667,30.488055555556,2013-05-17T19:59:59Z,555560293,METROKIEV style
+765800,"Saint Sophia's Cathedral, Kiev",50.452777777778,30.514444444444,2016-03-03T20:17:25Z,708127665,
+765800,"Saint Sophia's Cathedral, Kiev",50.452777777778,30.514444444444,2016-02-26T14:59:51Z,707015771,
+765800,"Saint Sophia's Cathedral, Kiev",50.452777777778,30.514444444444,2016-02-03T11:53:51Z,703086604,
+765800,"Saint Sophia's Cathedral, Kiev",50.452777777778,30.514444444444,2016-01-30T23:17:15Z,702498923,([[c:GR|GR]]) [[c:COM:FR|File renamed]]: [[File:Ukraine-2005-Bill-2-Reverse.jpg]] → [[File:2 hryvnia 2005 back.jpg]] [[c:COM:FR#reasons|File renaming criterion #4]]: Um Namen einer Bildreihe anzugleichen (so dass sie sich nur in einem Teil des Namens...
+765800,"Saint Sophia's Cathedral, Kiev",50.452777777778,30.514444444444,2016-01-21T17:25:23Z,700958585,Reverted 1 edit by [[Special:Contributions/69.47.248.7|69.47.248.7]] ([[User talk:69.47.248.7|talk]]) to last revision by ClueBot NG. ([[WP:TW|TW]])
+37689788,"Embassy of Azerbaijan, Kiev",50.4608,30.4907,2014-07-16T23:57:16Z,617245635,/* Previous Ambassadors */Task 2: Fix [[Help:CS1_errors#deprecated_params|CS1 deprecated coauthor parameter errors]]
+37689788,"Embassy of Azerbaijan, Kiev",50.4608,30.4907,2014-03-22T18:19:31Z,600763452,add coordinates (from OpenStreetMap)
+37689788,"Embassy of Azerbaijan, Kiev",50.4608,30.4907,2013-03-22T23:22:56Z,546422048,"[[User:Addbot|Bot:]] Migrating 2 interwiki links, now provided by [[Wikipedia:Wikidata|Wikidata]] on [[d:q5369559]]"
+37689788,"Embassy of Azerbaijan, Kiev",50.4608,30.4907,2013-02-04T20:14:37Z,536573254,clean up using [[Project:AWB|AWB]] (8884)
+37689788,"Embassy of Azerbaijan, Kiev",50.4608,30.4907,2013-01-03T19:57:49Z,531137483,/* See also */
+2281470,National Academy of Sciences of Ukraine,50.444886111111,30.512519444444,2016-01-28T22:54:19Z,702176202,/* Sections */
+2281470,National Academy of Sciences of Ukraine,50.444886111111,30.512519444444,2015-11-20T12:23:19Z,691529371,/* Presidents */
+2281470,National Academy of Sciences of Ukraine,50.444886111111,30.512519444444,2015-08-24T00:11:18Z,677543320,
+2281470,National Academy of Sciences of Ukraine,50.444886111111,30.512519444444,2015-06-22T03:59:53Z,668050895,Undid revision 668011503 by [[Special:Contributions/TooOldMan|TooOldMan]] ([[User talk:TooOldMan|talk]])
+2281470,National Academy of Sciences of Ukraine,50.444886111111,30.512519444444,2015-06-21T23:14:58Z,668011503,/* Notable members */ Name of S. I. Pekar for whom a Wikipedia page exists is added
+3612058,Kyiv-Passazhyrskiy Railway station,50.440555555556,30.489444444444,2015-10-04T15:10:19Z,684095283,
+3612058,Kyiv-Passazhyrskiy Railway station,50.440555555556,30.489444444444,2015-09-21T16:53:12Z,682113926,
+3612058,Kyiv-Passazhyrskiy Railway station,50.440555555556,30.489444444444,2015-09-21T16:52:08Z,682113803,
+3612058,Kyiv-Passazhyrskiy Railway station,50.440555555556,30.489444444444,2015-08-18T08:09:17Z,676641220,/* External links */
+3612058,Kyiv-Passazhyrskiy Railway station,50.440555555556,30.489444444444,2015-08-18T08:06:43Z,676640887,<gallery> +
+1583763,Central Council of Ukraine,50.444722222222,30.513611111111,2016-02-08T23:10:46Z,704004621,/* Fate of the Central Council members */
+1583763,Central Council of Ukraine,50.444722222222,30.513611111111,2016-01-12T05:02:32Z,699415717,v1.38 - Repaired 1 link to disambiguation page - [[WP:DPL|(You can help)]] - [[Volodymyr Naumenko]]
+1583763,Central Council of Ukraine,50.444722222222,30.513611111111,2015-12-29T16:34:02Z,697302840,
+1583763,Central Council of Ukraine,50.444722222222,30.513611111111,2015-10-30T03:31:46Z,688174449,/* Bibliography */
+1583763,Central Council of Ukraine,50.444722222222,30.513611111111,2015-09-21T22:17:03Z,682157602,/* Mala Rada */
+13766750,Mirax-Plaza Ukraine,50.4627086,30.4968828,2016-03-05T02:08:46Z,708347751,
+13766750,Mirax-Plaza Ukraine,50.4627086,30.4968828,2016-01-22T02:29:43Z,701033890,"Rescuing 2 sources, flagging 0 as dead, and archiving 3 sources. #IABot"
+13766750,Mirax-Plaza Ukraine,50.4627086,30.4968828,2015-10-16T11:17:13Z,686006755,
+13766750,Mirax-Plaza Ukraine,50.4627086,30.4968828,2014-06-22T15:08:20Z,613959059,
+13766750,Mirax-Plaza Ukraine,50.4627086,30.4968828,2013-03-24T13:06:48Z,546727623,[[WP:AWB/T|Typo fixing]]  and general fixes using [[Project:AWB|AWB]] (8853)
+21486360,Kievan Rus',50.45,30.516666666667,2016-02-28T22:11:56Z,707440630,Reverted 1 edit by [[Special:Contributions/69.115.1.43|69.115.1.43]] ([[User talk:69.115.1.43|talk]]): Rv [[WP:POV]] blanking. ([[WP:TW|TW]])
+21486360,Kievan Rus',50.45,30.516666666667,2016-02-28T18:53:16Z,707411864,
+21486360,Kievan Rus',50.45,30.516666666667,2016-02-24T13:39:57Z,706644291,"Undid revision 706634828 by [[Special:Contributions/EricLewan|EricLewan]] ([[User talk:EricLewan|talk]]) Rv POV anachronistic name change; this article is about Kievan Rus, not the Ukraine"
+21486360,Kievan Rus',50.45,30.516666666667,2016-02-24T12:08:01Z,706634828,
+21486360,Kievan Rus',50.45,30.516666666667,2016-02-08T06:00:31Z,703882815,/* Evolution of the economy */ ce - better fit for ref
+1374508,Kiev Offensive (1920),50.45,30.516666666667,2015-08-05T07:16:26Z,674644671,[[:en:WP:CLEANER|WPCleaner]] v1.36 - remove link to [[I]]
+1374508,Kiev Offensive (1920),50.45,30.516666666667,2015-06-05T15:35:45Z,665632243,"provided citation per request, removed original research from [[wp:lede]] → article is a mess"
+1374508,Kiev Offensive (1920),50.45,30.516666666667,2015-03-04T01:14:38Z,649773767,[[:en:WP:CLEANER|WPCleaner]] v1.34 - Repaired 1 link to disambiguation page - [[WP:DPL|(You can help)]] - [[St. Volodymyr's Cathedral]]
+1374508,Kiev Offensive (1920),50.45,30.516666666667,2015-02-23T00:29:43Z,648400811,/* References */ rm redundant refs (3 + 1 dups)
+1374508,Kiev Offensive (1920),50.45,30.516666666667,2015-02-22T22:29:53Z,648386970,
+28166533,Kuyaba,50.45,30.516666666667,2015-12-31T19:17:09Z,697627946,explain
+28166533,Kuyaba,50.45,30.516666666667,2015-10-11T17:22:33Z,685230977,
+28166533,Kuyaba,50.45,30.516666666667,2013-08-22T03:54:23Z,569671954,removed [[Category:History of Ukraine]]; added [[Category:Medieval Ukraine]] using [[WP:HC|HotCat]]
+28166533,Kuyaba,50.45,30.516666666667,2013-05-14T22:33:14Z,555124142,Link disambiguation
+28166533,Kuyaba,50.45,30.516666666667,2013-02-28T13:44:07Z,541242059,"[[User:Addbot|Bot:]] Migrating 4 interwiki links, now provided by [[Wikipedia:Wikidata|Wikidata]] on [[d:q2580498]] ([[User talk:Addbot|Report Errors]])"
+906648,Novgorod Republic,50.45,30.5167,2016-02-10T22:16:31Z,704321416,
+906648,Novgorod Republic,50.45,30.5167,2016-02-10T22:12:21Z,704320765,
+906648,Novgorod Republic,50.45,30.5167,2016-02-10T22:12:02Z,704320707,
+906648,Novgorod Republic,50.45,30.5167,2016-02-10T22:11:39Z,704320654,
+906648,Novgorod Republic,50.45,30.5167,2016-02-03T10:48:13Z,703080757,
+703787,Ukrainian State,50.45,30.5167,2015-11-01T08:22:00Z,688492096,Bot: Change redirected category [[:Category:History of Ukraine (1918-91)|History of Ukraine (1918-91)]] to [[:Category:History of Ukraine (1918–91)|History of Ukraine (1918–91)]]
+703787,Ukrainian State,50.45,30.5167,2015-10-30T01:56:50Z,688165746,/* External links */
+703787,Ukrainian State,50.45,30.5167,2015-07-23T02:20:40Z,672669799,/* Ukrainian Civil War */
+703787,Ukrainian State,50.45,30.5167,2015-07-23T02:19:20Z,672669657,/* Geography */
+703787,Ukrainian State,50.45,30.5167,2015-05-13T10:54:47Z,662136164,it was Ukrainian People's Republic
+1177270,Battle of Kiev (1941),50.4536,30.5164,2016-03-04T19:14:16Z,708291453,
+1177270,Battle of Kiev (1941),50.4536,30.5164,2016-01-05T17:55:44Z,698369024,clarity
+1177270,Battle of Kiev (1941),50.4536,30.5164,2016-01-05T17:54:56Z,698368921,Undid revision 698100752 by [[Special:Contributions/67.70.5.219|67.70.5.219]] ([[User talk:67.70.5.219|talk]]) Not necessarily.
+1177270,Battle of Kiev (1941),50.4536,30.5164,2016-01-04T00:55:48Z,698100752,"Losing battles is no tragedy or disaster. Tragedies and disasyers are usually done by forces uncontrolable by humans like nature, this was war."
+1177270,Battle of Kiev (1941),50.4536,30.5164,2015-12-19T06:34:01Z,695869898,
+27229755,Red University Building,50.441941666667,30.511258333333,2015-10-15T12:59:18Z,685860303,klyati moskali
+27229755,Red University Building,50.441941666667,30.511258333333,2015-08-06T11:49:44Z,674827499,
+27229755,Red University Building,50.441941666667,30.511258333333,2015-05-03T18:17:59Z,660624774,"cleanup class ""references-small"" (class was deleted 21 Dec 2010) using [[Project:AWB|AWB]]"
+27229755,Red University Building,50.441941666667,30.511258333333,2014-09-10T19:11:48Z,624982980,
+27229755,Red University Building,50.441941666667,30.511258333333,2014-09-03T20:08:55Z,624060578,Removing Link GA template ([[d:Wikidata:Development plan#Badges|handled by wikidata]])
+1583836,Taras Shevchenko National University of Kyiv,50.441902777778,30.511313888889,2016-02-20T05:05:00Z,705893852,"[[WP:AWB/T|Typo fixing]], general fixes and clean up, [[WP:AWB/T|typo(s) fixed]]: Master's Degree → master's degree using [[Project:AWB|AWB]]"
+1583836,Taras Shevchenko National University of Kyiv,50.441902777778,30.511313888889,2015-12-24T11:06:42Z,696618210,
+1583836,Taras Shevchenko National University of Kyiv,50.441902777778,30.511313888889,2015-11-04T00:07:33Z,688942938,Robot - Removing category Things named after Taras Shevchenko per [[WP:CFD|CFD]] at [[Wikipedia:Categories for discussion/Log/2015 October 27]].
+1583836,Taras Shevchenko National University of Kyiv,50.441902777778,30.511313888889,2015-10-26T15:54:57Z,687599107,
+1583836,Taras Shevchenko National University of Kyiv,50.441902777778,30.511313888889,2015-10-12T06:31:37Z,685327239,/* External links */ more specific cat
+25783337,Kiev Academic Youth Theatre,50.448288888889,30.517091666667,2013-03-07T19:39:06Z,542651358,"[[User:Addbot|Bot:]] Migrating 3 interwiki links, now provided by [[Wikipedia:Wikidata|Wikidata]] on [[d:q2065511]]"
+25783337,Kiev Academic Youth Theatre,50.448288888889,30.517091666667,2013-02-28T22:54:03Z,541361381,removed [[Category:1979 establishments]]; added [[Category:1979 establishments in Ukraine]] using [[WP:HC|HotCat]]
+25783337,Kiev Academic Youth Theatre,50.448288888889,30.517091666667,2011-11-28T12:26:38Z,462888830,
+25783337,Kiev Academic Youth Theatre,50.448288888889,30.517091666667,2011-09-08T14:57:49Z,449146555,
+25783337,Kiev Academic Youth Theatre,50.448288888889,30.517091666667,2011-04-25T01:14:32Z,425751326,
+9485326,International Solomon University,50.452,30.4772,2015-07-12T02:09:49Z,671050249,added [[Category:1991 establishments in Ukraine]] using [[WP:HC|HotCat]]
+9485326,International Solomon University,50.452,30.4772,2015-07-12T02:07:52Z,671050087,added [[Category:Educational institutions established in 1991]] using [[WP:HC|HotCat]]
+9485326,International Solomon University,50.452,30.4772,2014-11-20T19:31:18Z,634729116,/* External links */
+9485326,International Solomon University,50.452,30.4772,2014-04-12T12:02:46Z,603866675,type in {{coord}}
+9485326,International Solomon University,50.452,30.4772,2014-03-25T03:21:21Z,601141843,/* External links */ update
+23833522,Institute of Encyclopaedic Research,50.444316666667,30.515808333333,2015-07-07T00:51:48Z,670282576,"/* History and structure */typofix(es), replaced: establishe  → established using [[Project:AWB|AWB]]"
+23833522,Institute of Encyclopaedic Research,50.444316666667,30.515808333333,2014-08-09T07:24:31Z,620473643,added [[Category:Organizations established in 2004]] using [[WP:HC|HotCat]]
+23833522,Institute of Encyclopaedic Research,50.444316666667,30.515808333333,2013-03-11T01:00:18Z,543315755,"[[User:Addbot|Bot:]] Migrating 2 interwiki links, now provided by [[Wikipedia:Wikidata|Wikidata]] on [[d:q4201869]]"
+23833522,Institute of Encyclopaedic Research,50.444316666667,30.515808333333,2012-06-15T21:13:49Z,497775533,removed [[Category:2004 establishments]]; added [[Category:2004 establishments in Ukraine]] using [[WP:HC|HotCat]]
+23833522,Institute of Encyclopaedic Research,50.444316666667,30.515808333333,2010-10-11T22:14:29Z,390152231,
+29637654,Sky Towers (Kiev),50.448611111111,30.476944444444,2014-12-17T10:27:04Z,638476617,
+29637654,Sky Towers (Kiev),50.448611111111,30.476944444444,2013-12-08T15:55:57Z,585137171,Removing links to deleted file [[:File:Sky Towers 1.jpg]]
+29637654,Sky Towers (Kiev),50.448611111111,30.476944444444,2013-09-10T06:37:00Z,572303534,Added commons category
+29637654,Sky Towers (Kiev),50.448611111111,30.476944444444,2013-04-27T16:01:51Z,552432430,"Bot: Migrating 1 interwiki links, now provided by [[Wikipedia:Wikidata|Wikidata]] on [[d:Q12080118]]"
+29637654,Sky Towers (Kiev),50.448611111111,30.476944444444,2012-09-25T13:48:31Z,514489113,Grutness moved page [[Sky Towers]] to [[Sky Towers (Kiev)]]: Loads of Sky Towers
+36753361,Institute of Mathematics of the National Academy of Sciences of Ukraine,50.4444,30.516286111111,2015-04-28T16:16:35Z,659704137,/* External links */
+36753361,Institute of Mathematics of the National Academy of Sciences of Ukraine,50.4444,30.516286111111,2013-11-08T10:09:05Z,580735381,Reference before punctuation detected and fixed using [[Project:AWB|AWB]] (9585)
+36753361,Institute of Mathematics of the National Academy of Sciences of Ukraine,50.4444,30.516286111111,2013-11-02T21:52:41Z,579921573,more style
+36753361,Institute of Mathematics of the National Academy of Sciences of Ukraine,50.4444,30.516286111111,2013-11-02T21:46:46Z,579920824,"style, formatting and grammar"
+36753361,Institute of Mathematics of the National Academy of Sciences of Ukraine,50.4444,30.516286111111,2013-06-29T20:51:24Z,562159717,add ref
+28754198,Prorizna Street,50.448405555556,30.518561111111,2013-10-06T23:34:22Z,576061761,"[[WP:AWB/T|Typo fixing]]  and general fixes, replaced: steet →  street (2) using [[Project:AWB|AWB]]"
+28754198,Prorizna Street,50.448405555556,30.518561111111,2013-03-08T15:48:13Z,542830224,"[[User:Addbot|Bot:]] Migrating 3 interwiki links, now provided by [[Wikipedia:Wikidata|Wikidata]] on [[d:q3394397]]"
+28754198,Prorizna Street,50.448405555556,30.518561111111,2012-01-27T02:47:50Z,473448164,in cat thru subcat
+28754198,Prorizna Street,50.448405555556,30.518561111111,2011-11-01T23:23:50Z,458547486,"r2.5.4) (Robot: Modifying [[uk:Прорізна вулиця (Київ, Шевченківський район)]]"
+28754198,Prorizna Street,50.448405555556,30.518561111111,2011-10-29T23:58:47Z,458049574,"r2.6.4) (Robot: Modifying [[uk:Вулиця Прорізна (Київ, Шевченківський район)]]"
+18334526,CSK ZSU Stadium,50.444722222222,30.478333333333,2014-10-06T02:06:02Z,628418527,/* External links */
+18334526,CSK ZSU Stadium,50.444722222222,30.478333333333,2014-10-04T15:45:27Z,628218854,
+18334526,CSK ZSU Stadium,50.444722222222,30.478333333333,2014-06-10T16:14:25Z,612373420,/* top */
+18334526,CSK ZSU Stadium,50.444722222222,30.478333333333,2013-11-20T01:49:11Z,582462858,−[[Category:Buildings and structures in Kiev]]; −[[Category:Sport in Kiev]]; ±[[Category:Football venues in Ukraine]]→[[Category:Football venues in Kiev]] using [[WP:HC|HotCat]]
+18334526,CSK ZSU Stadium,50.444722222222,30.478333333333,2013-10-15T04:37:50Z,577232076,update
+42111572,Bogomolets National Medical University,50.4427,30.5153,2016-02-23T05:02:58Z,706413229,
+42111572,Bogomolets National Medical University,50.4427,30.5153,2016-02-23T05:00:24Z,706412942,
+42111572,Bogomolets National Medical University,50.4427,30.5153,2016-02-23T04:58:52Z,706412793,
+42111572,Bogomolets National Medical University,50.4427,30.5153,2015-09-05T22:08:59Z,679646984,
+42111572,Bogomolets National Medical University,50.4427,30.5153,2015-09-03T15:22:52Z,679274553,
+40751628,Old Kyiv,50.458333333333,30.516111111111,2016-02-28T13:46:17Z,707372504,
+40751628,Old Kyiv,50.458333333333,30.516111111111,2016-02-28T13:45:55Z,707372465,
+40751628,Old Kyiv,50.458333333333,30.516111111111,2016-02-28T13:43:46Z,707372238,
+40751628,Old Kyiv,50.458333333333,30.516111111111,2016-02-28T12:48:47Z,707366541,
+40751628,Old Kyiv,50.458333333333,30.516111111111,2016-02-26T22:35:48Z,707092588,
+4960288,Teatralna (Kiev Metro),50.445277777778,30.518055555556,2015-01-05T17:57:23Z,641116304,/* Architecture */ Update
+4960288,Teatralna (Kiev Metro),50.445277777778,30.518055555556,2015-01-05T17:52:09Z,641115688,Reverted edits by [[Special:Contribs/202.240.72.251|202.240.72.251]] ([[User talk:202.240.72.251|talk]]) to last version by John of Reading
+4960288,Teatralna (Kiev Metro),50.445277777778,30.518055555556,2014-12-12T08:02:39Z,637743814,
+4960288,Teatralna (Kiev Metro),50.445277777778,30.518055555556,2014-08-02T05:47:29Z,619515426,"/* Architecture */Typo fixing, replaced: in 1970s → in the 1970s - in a quote, but this is a translation; using [[Project:AWB|AWB]]"
+4960288,Teatralna (Kiev Metro),50.445277777778,30.518055555556,2014-04-05T11:19:09Z,602849618,[[WP:CHECKWIKI]] error fixes using [[Project:AWB|AWB]] (10072)
+9795869,Museum of Western and Oriental Art,50.441111111111,30.514444444444,2015-12-12T22:54:23Z,694979862,Reverted edits by [[Special:Contribs/BD2412bot|BD2412bot]] ([[User talk:BD2412bot|talk]]) to last version by The Quixotic Potato
+9795869,Museum of Western and Oriental Art,50.441111111111,30.514444444444,2015-12-10T05:30:55Z,694587829,"clean up from contested disambig fix, replaced: [[Greater Iran|Persian]] → Persian<!-- Do not link to the disambiguation page, ""Persian""; link to a specific iteration of this topic --> using [[Project:AWB|AWB]]"
+9795869,Museum of Western and Oriental Art,50.441111111111,30.514444444444,2015-12-09T19:08:02Z,694513424,"All stages of the ""Persian Empire"" are covered in [[History of Iran]], replaced: [[Persian Empire| → [[Greater Iran| using [[Project:AWB|AWB]]"
+9795869,Museum of Western and Oriental Art,50.441111111111,30.514444444444,2015-09-12T14:10:53Z,680683182,"/* History */[[WP:AWB/T|Typo fixing]], [[WP:AWB/T|typo(s) fixed]]: forty year → forty-year using [[Project:AWB|AWB]]"
+9795869,Museum of Western and Oriental Art,50.441111111111,30.514444444444,2015-07-26T13:30:13Z,673152916,
+30856563,"Ar-Rahma Mosque, Kiev",50.465,30.499722222222,2015-06-30T20:18:43Z,669382904,
+30856563,"Ar-Rahma Mosque, Kiev",50.465,30.499722222222,2015-03-19T08:14:07Z,652047147,Update photo
+30856563,"Ar-Rahma Mosque, Kiev",50.465,30.499722222222,2014-01-12T13:34:27Z,590359504,Added website link and capacity
+30856563,"Ar-Rahma Mosque, Kiev",50.465,30.499722222222,2013-10-29T22:15:10Z,579358059,tone
+30856563,"Ar-Rahma Mosque, Kiev",50.465,30.499722222222,2013-08-29T20:23:33Z,570719330,Corrected spelling
+4037325,Zamkova Hora (Kiev),50.4625,30.510833333333,2016-02-26T15:16:13Z,707019039,
+4037325,Zamkova Hora (Kiev),50.4625,30.510833333333,2016-02-26T15:08:10Z,707017285,
+4037325,Zamkova Hora (Kiev),50.4625,30.510833333333,2014-08-20T21:01:48Z,622108096,/* External links */ update
+4037325,Zamkova Hora (Kiev),50.4625,30.510833333333,2014-08-20T02:30:33Z,622002145,update
+4037325,Zamkova Hora (Kiev),50.4625,30.510833333333,2013-03-01T03:10:37Z,541407505,"Bot: Migrating 4 interwiki links, now provided by [[Wikipedia:Wikidata|Wikidata]] on [[d:q797825]]"
+1463939,Church of the Tithes,50.4577777878,30.51750001,2016-02-26T13:56:03Z,707005324,
+1463939,Church of the Tithes,50.4577777878,30.51750001,2015-10-18T02:18:15Z,686262997,"applying [[WP:MOS]] in regard to [[hyphenation]]: —> ""370-year-old"" [1 instance]—[[WP:MOS#Numbers]] (point 1)—[[WP:HYPHEN]], sub-subsection 3, points 3 and 8"
+1463939,Church of the Tithes,50.4577777878,30.51750001,2015-10-14T16:36:14Z,685726627,/* References */
+1463939,Church of the Tithes,50.4577777878,30.51750001,2015-10-14T16:33:22Z,685726188,/* References */
+1463939,Church of the Tithes,50.4577777878,30.51750001,2015-07-16T08:34:40Z,671678965,Robot - Moving category 10th-century church buildings‎ to [[:Category:10th-century churches]] per [[WP:CFD|CFD]] at [[Wikipedia:Categories_for_discussion/Log/2015_May_1]].
+26026028,The Ukrainian Registered Cossacks,50.452894444444,30.520247222222,2016-01-30T09:35:35Z,702399511,"Rescuing 1 sources, flagging 0 as dead, and archiving 13 sources. #IABot"
+26026028,The Ukrainian Registered Cossacks,50.452894444444,30.520247222222,2015-12-25T18:30:31Z,696767975,"Removed invisible unicode characters + other fixes, removed: ‎ using [[Project:AWB|AWB]] (11759)"
+26026028,The Ukrainian Registered Cossacks,50.452894444444,30.520247222222,2015-12-24T23:54:24Z,696690450,removed [[Category:Organisations based in Ukraine]]; added [[Category:Cultural organizations based in Ukraine‎]] using [[WP:HC|HotCat]]
+26026028,The Ukrainian Registered Cossacks,50.452894444444,30.520247222222,2015-08-25T03:59:32Z,677724158,Robot - Moving category Cossacks in Ukraine to [[:Category:History of Cossacks in Ukraine]] per [[WP:CFD|CFD]] at [[Wikipedia:Categories for discussion/Log/2015 May 29]].
+26026028,The Ukrainian Registered Cossacks,50.452894444444,30.520247222222,2015-05-28T21:31:34Z,664475512,removed [[Category:Cossacks]]; added [[Category:Cossacks in Ukraine]] using [[WP:HC|HotCat]]
+37116496,InterContinental Kyiv,50.455639,30.519278,2016-02-26T14:50:30Z,707014182,
+37116496,InterContinental Kyiv,50.455639,30.519278,2016-01-25T22:05:07Z,701673435,Fixing section headings
+37116496,InterContinental Kyiv,50.455639,30.519278,2016-01-25T07:17:04Z,701559981,"Removed invisible unicode characters + other fixes, replaced: → using [[Project:AWB|AWB]] (11832)"
+37116496,InterContinental Kyiv,50.455639,30.519278,2015-12-05T19:00:25Z,693902503,Added Awards section. Corrected general information of the hotel.
+37116496,InterContinental Kyiv,50.455639,30.519278,2014-06-23T11:10:19Z,614078550,
+28737225,Krasnodonska Street,50.436388888889,30.491877777778,2013-04-29T15:58:52Z,552743320,[[Wikipedia:Bots|BOT]]: Fixing overprecise coordinates. Decimal degrees to 6 decimal places; Seconds (from DMS) to 2 decimal places.
+28737225,Krasnodonska Street,50.436388888889,30.491877777778,2013-03-21T13:56:04Z,545987282,"[[User:Addbot|Bot:]] Migrating 1 interwiki links, now provided by [[Wikipedia:Wikidata|Wikidata]] on [[d:q6436261]]"
+28737225,Krasnodonska Street,50.436388888889,30.491877777778,2012-08-11T03:59:05Z,506833638,/* References */
+28737225,Krasnodonska Street,50.436388888889,30.491877777778,2012-01-27T02:47:12Z,473448100,in cat thru subcat
+28737225,Krasnodonska Street,50.436388888889,30.491877777778,2012-01-16T23:49:29Z,471774021,"clean up, added [[CAT:O|orphan]] tag using [[Project:AWB|AWB]]"
+9464813,Mikhail Bulgakov Museum,50.460833333333,30.514722222222,2015-10-06T13:07:39Z,684407130,
+9464813,Mikhail Bulgakov Museum,50.460833333333,30.514722222222,2015-03-03T15:27:12Z,649697728,Reverted 1 edit by [[Special:Contributions/77.165.173.131|77.165.173.131]] ([[User talk:77.165.173.131|talk]]) to last revision by Iljaanja. ([[WP:TW|TW]])
+9464813,Mikhail Bulgakov Museum,50.460833333333,30.514722222222,2015-03-03T15:20:24Z,649697032,Undid revision 649572052 by [[Special:Contributions/Iljaanja|Iljaanja]] ([[User talk:Iljaanja|talk]])
+9464813,Mikhail Bulgakov Museum,50.460833333333,30.514722222222,2015-03-02T19:05:34Z,649572052,"Grammar, spelling, and - most important - content corrections to the ""Russians were banned"" entry, an inaccurate & inflammatory characterization of the announcement placed at the museum. I've provided a full and accurate translation."
+9464813,Mikhail Bulgakov Museum,50.460833333333,30.514722222222,2015-01-20T04:45:46Z,643319372,[[WP:CHECKWIKI]] error fixes using [[Project:AWB|AWB]] (10783)
+3953131,Andriyivskyy Descent,50.46,30.516388888889,2015-12-01T16:10:47Z,693285014,"/* Description */Typos and general fixes, replaced: were it  →  where it using [[Project:AWB|AWB]]"
+3953131,Andriyivskyy Descent,50.46,30.516388888889,2015-08-24T19:20:32Z,677664439,typo
+3953131,Andriyivskyy Descent,50.46,30.516388888889,2015-05-10T16:06:41Z,661714428,corrected CS1 error
+3953131,Andriyivskyy Descent,50.46,30.516388888889,2014-02-25T21:06:33Z,597123727,"Re-organizing photos, and sections by more logical order (from top of descent to bottom)"
+3953131,Andriyivskyy Descent,50.46,30.516388888889,2014-02-02T18:29:50Z,593613714,/* Saint Andrew's Church */ link fix
+1793863,"St Andrew's Church, Kiev",50.458888888889,30.518055555556,2016-02-21T13:11:41Z,706102850,"[[WP:AWB/T|Typo fixing]], general fixes and clean up, [[WP:AWB/T|typo(s) fixed]]: 15 meter → 15-meter using [[Project:AWB|AWB]]"
+1793863,"St Andrew's Church, Kiev",50.458888888889,30.518055555556,2016-02-21T02:03:30Z,706036224,
+1793863,"St Andrew's Church, Kiev",50.458888888889,30.518055555556,2016-02-21T02:02:11Z,706036038,
+1793863,"St Andrew's Church, Kiev",50.458888888889,30.518055555556,2016-02-13T05:45:00Z,704725521,"Rescuing 1 sources, flagging 0 as dead, and archiving 0 sources. #IABot"
+1793863,"St Andrew's Church, Kiev",50.458888888889,30.518055555556,2016-01-11T02:41:35Z,699234471,"Rescuing 2 sources, flagging 0 as dead, and archiving 7 sources. #IABot"
+7683452,Lukianivska (Kiev Metro),50.4625,30.481944444444,2015-07-15T14:18:58Z,671563313,Cleanup
+7683452,Lukianivska (Kiev Metro),50.4625,30.481944444444,2015-03-07T23:07:32Z,650363254,date formatting
+7683452,Lukianivska (Kiev Metro),50.4625,30.481944444444,2014-12-31T14:24:30Z,640385369,"/* External links */refbegin, replaced: </div> → {{refend}}, <div class=""references-small""> → {{refbegin}} using [[Project:AWB|AWB]]"
+7683452,Lukianivska (Kiev Metro),50.4625,30.481944444444,2014-12-28T18:28:07Z,639972298,"clean up, replaced: <center><gallery> → <gallery class=""center"">, </gallery></center> → </gallery>, <gallery  → <gallery class=""center"" , class=""center"" class=""center"" → class=""center"" using [[Project:AWB|AWB]]"
+7683452,Lukianivska (Kiev Metro),50.4625,30.481944444444,2014-10-15T16:58:08Z,629733926,redundant
+3651761,Kiev City Council,50.446388888889,30.521111111111,2016-02-13T18:00:50Z,704800518,/* See also */
+3651761,Kiev City Council,50.446388888889,30.521111111111,2016-02-13T18:00:19Z,704800453,/* See also */
+3651761,Kiev City Council,50.446388888889,30.521111111111,2015-11-03T00:25:59Z,688779169,"Rescuing orphaned refs (""Oleikov2"" from rev 688776811)"
+3651761,Kiev City Council,50.446388888889,30.521111111111,2015-11-03T00:13:59Z,688777675,"They will both probbly be re-elected both but for another party, [[Solidarity (Petro Poroshenko Bloc)|Solidarity]]"
+3651761,Kiev City Council,50.446388888889,30.521111111111,2015-11-03T00:12:06Z,688777439,/* Parliamentary parties */ * [[Solidarity (Petro Poroshenko Bloc)|Solidarity]]<ref>http://pda.pravda.com.ua/news/id_7087280/</ref> * [[Self Reliance (political party)|Self Reliance]]<ref>http://pda.pravda.com.ua/news/id_7087280/</ref> * [[All-Ukrainian U
+35994442,"Embassy of the United Kingdom, Kiev",50.4571,30.5199,2015-12-23T07:35:44Z,696455066,
+35994442,"Embassy of the United Kingdom, Kiev",50.4571,30.5199,2015-05-02T19:32:12Z,660482322,
+35994442,"Embassy of the United Kingdom, Kiev",50.4571,30.5199,2015-03-10T00:55:36Z,650691323,UK style
+35994442,"Embassy of the United Kingdom, Kiev",50.4571,30.5199,2014-11-21T00:55:10Z,634768583,Developed infobox
+35994442,"Embassy of the United Kingdom, Kiev",50.4571,30.5199,2014-09-29T08:20:28Z,627516718,/* Ambassadors */
+3643847,Khreshchatyk,50.447311111111,30.521972222222,2016-02-26T14:53:12Z,707014638,
+3643847,Khreshchatyk,50.447311111111,30.521972222222,2015-12-24T00:57:16Z,696566499,Removing links to deleted file [[:File:Khresch XIXcent.jpg]]
+3643847,Khreshchatyk,50.447311111111,30.521972222222,2015-12-10T06:30:49Z,694593411,Removing links to deleted file [[:File:Khresch 1998.jpg]]
+3643847,Khreshchatyk,50.447311111111,30.521972222222,2015-07-31T23:53:54Z,674006440,
+3643847,Khreshchatyk,50.447311111111,30.521972222222,2015-07-05T07:52:42Z,670021289,
+28354545,Florivsky Convent,50.4624,30.51471,2014-03-29T16:13:57Z,601823198,reloc. coord
+28354545,Florivsky Convent,50.4624,30.51471,2014-02-24T17:51:37Z,596942898,the panoramic photo is superior
+28354545,Florivsky Convent,50.4624,30.51471,2014-01-10T05:53:48Z,590035231,Ghirlandajo moved page [[Florus Convent]] to [[Florivsky Convent]] over redirect
+28354545,Florivsky Convent,50.4624,30.51471,2013-07-18T18:20:32Z,564822823,
+28354545,Florivsky Convent,50.4624,30.51471,2013-05-11T17:31:49Z,554617072,
+44413367,Lach Gates (monument),50.450935,30.522966,2015-01-30T01:37:27Z,644782070,Robot - Speedily moving category Independence Square (Kiev) to [[:Category:Maidan Nezalezhnosti]] per [[WP:CFDS|CFDS]].
+44413367,Lach Gates (monument),50.450935,30.522966,2014-12-11T10:50:07Z,637608489,"[[WP:CHECKWIKI]] error fixes, removed underlinked tag using [[Project:AWB|AWB]] (10514)"
+44413367,Lach Gates (monument),50.450935,30.522966,2014-12-08T01:11:05Z,637099434,[[User:AndyZ/peerreviewer|JS]]: fixing [[WP:MOS|MoS]] and other miscellaneous style problems
+44413367,Lach Gates (monument),50.450935,30.522966,2014-11-17T16:13:51Z,634236363,/* External links */ +tl
+44413367,Lach Gates (monument),50.450935,30.522966,2014-11-17T16:13:25Z,634236315,UA
+43607496,Kiev Mountains,50.446793,30.522282,2014-12-09T19:54:08Z,637365230,Disambiguated: [[subway]] → [[Rapid transit]]
+43607496,Kiev Mountains,50.446793,30.522282,2014-11-21T09:16:24Z,634810844,
+43607496,Kiev Mountains,50.446793,30.522282,2014-08-26T09:29:19Z,622861539,"new key for [[Category:Hills of Kiev]]: "" "" using [[WP:HC|HotCat]]"
+43607496,Kiev Mountains,50.446793,30.522282,2014-08-23T12:32:23Z,622461768,[[WP:CHECKWIKI]] error fixes using [[Project:AWB|AWB]] (10392)
+43607496,Kiev Mountains,50.446793,30.522282,2014-08-23T08:41:55Z,622444845,"[[WP:CHECKWIKI]] error fixes, added Empty section (1) tag using [[Project:AWB|AWB]] (10392)"
+9041063,Solomianka Raion,50.45,30.5233,2016-02-28T18:31:42Z,707408972,
+9041063,Solomianka Raion,50.45,30.5233,2016-01-31T18:54:13Z,702623787,([[c:GR|GR]]) [[c:COM:FR|File renamed]]: [[File:Soloman.png]] → [[File:Coat of Arms of Solomiansky district in Kiev.png]] [[c:COM:FR#reasons|File renaming criterion #2]]: To change from a meaningless or ambiguous name to a name that describes what th...
+9041063,Solomianka Raion,50.45,30.5233,2015-06-19T13:56:44Z,667631430,
+9041063,Solomianka Raion,50.45,30.5233,2015-04-10T21:12:41Z,655886202,
+9041063,Solomianka Raion,50.45,30.5233,2014-10-24T23:58:20Z,630997181,Replacing geodata: {{coord|50.4500|N|30.5233|E|source:wikidata-and-enwiki-cat-tree_region:UA|display=title}}
+1279744,Kiev Voivodeship,50.45,30.523333,2015-09-25T06:57:38Z,682672399,[[WP:CHECKWIKI]] error fix for #61.  Punctuation goes before References. Do [[Wikipedia:GENFIXES|general fixes]] if a problem exists. - using [[Project:AWB|AWB]] (11550)
+1279744,Kiev Voivodeship,50.45,30.523333,2015-09-24T09:21:04Z,682532046,
+1279744,Kiev Voivodeship,50.45,30.523333,2015-09-24T09:20:27Z,682531975,
+1279744,Kiev Voivodeship,50.45,30.523333,2015-09-18T10:46:05Z,681620180,Kmicic moved page [[Kyiv Voivodeship]] to [[Kiev Voivodeship]] over redirect
+1279744,Kiev Voivodeship,50.45,30.523333,2015-09-18T10:45:43Z,681620151,NPOV
+9041020,"Dniprovskyi District, Kiev",50.45,30.523333333333,2016-02-28T17:47:13Z,707403214,
+9041020,"Dniprovskyi District, Kiev",50.45,30.523333333333,2016-02-28T17:01:26Z,707396730,
+9041020,"Dniprovskyi District, Kiev",50.45,30.523333333333,2016-01-02T01:23:27Z,697804903,
+9041020,"Dniprovskyi District, Kiev",50.45,30.523333333333,2015-02-09T23:32:52Z,646419816,Expand
+9041020,"Dniprovskyi District, Kiev",50.45,30.523333333333,2015-02-09T22:17:12Z,646411029,"DDima moved page [[Dnipro Raion, Kiev]] to [[Dniprovskyi District, Kiev]]: per consensus at [[WP:UKRAINE]] and [[WP:P-NUK]]"
+585629,Kiev,50.45,30.523333333333,2016-02-28T13:05:50Z,707368216,Rescuing 5 sources. #IABot
+585629,Kiev,50.45,30.523333333333,2016-02-27T22:34:11Z,707279192,"/* Twin towns and sister cities */In February 2016 the [[Kiev city council]] terminated its twinned relations with the [[Russia]]n cities [[Moscow]], [[Saint Petersburg]], [[Volgograd]], [[Ulan-Ude]], [[Makhachkala]], and the [[Komi Republic]] due to the"
+585629,Kiev,50.45,30.523333333333,2016-02-23T01:23:54Z,706387716,/* Twin towns and sister cities */ remove citation needed tag. all of the cities have citations
+585629,Kiev,50.45,30.523333333333,2016-02-23T01:23:18Z,706387633,/* Twin towns and sister cities */ no sources for these cities for a while after extensive searching. remove them until sources can be found
+585629,Kiev,50.45,30.523333333333,2016-02-19T17:28:47Z,705802275,"[[WP:AWB/T|Typo fixing]], general fixes and clean up using [[Project:AWB|AWB]]"
+4915735,Khreshchatyk (Kiev Metro),50.447222222222,30.522777777778,2014-05-04T12:46:30Z,607020187,
+4915735,Khreshchatyk (Kiev Metro),50.447222222222,30.522777777778,2013-05-17T19:52:54Z,555559342,METROKIEV style
+4915735,Khreshchatyk (Kiev Metro),50.447222222222,30.522777777778,2013-02-24T12:16:36Z,540056904,"[[User:Addbot|Bot:]] Migrating 5 interwiki links, now provided by [[Wikipedia:Wikidata|Wikidata]] on [[d:q1846051]] ([[User talk:Addbot|Report Errors]])"
+4915735,Khreshchatyk (Kiev Metro),50.447222222222,30.522777777778,2013-01-23T07:54:43Z,534457734,"fix gallery, rem. unnecessary non-free image (not significantly different from present-day view)"
+4915735,Khreshchatyk (Kiev Metro),50.447222222222,30.522777777778,2012-05-31T17:35:32Z,495327114,
+9149557,Ploshcha Lva Tolstoho (Kiev Metro),50.439444444444,30.516666666667,2015-07-15T14:20:26Z,671563467,ce
+9149557,Ploshcha Lva Tolstoho (Kiev Metro),50.439444444444,30.516666666667,2015-07-15T14:20:11Z,671563442,Cleanup
+9149557,Ploshcha Lva Tolstoho (Kiev Metro),50.439444444444,30.516666666667,2015-03-07T23:07:01Z,650363193,date formatting
+9149557,Ploshcha Lva Tolstoho (Kiev Metro),50.439444444444,30.516666666667,2013-05-17T19:55:53Z,555559737,METROKIEV style
+9149557,Ploshcha Lva Tolstoho (Kiev Metro),50.439444444444,30.516666666667,2013-03-01T09:50:57Z,541480630,"Bot: Migrating 4 interwiki links, now provided by [[Wikipedia:Wikidata|Wikidata]] on [[d:q2388684]]"
+17104279,Kiev Governorate,50.45,30.5236,2016-02-13T22:58:10Z,704843991,v1.38 - Repaired 1 link to disambiguation page - [[WP:DPL|(You can help)]] - [[Little Russia Governorate]]
+17104279,Kiev Governorate,50.45,30.5236,2015-12-15T13:43:37Z,695354211,/* List of okruhas */
+17104279,Kiev Governorate,50.45,30.5236,2015-12-12T18:50:35Z,694947375,clean up; http->https (see [[WP:VPR/Archive 127#RfC: Should we convert existing Google and Internet Archive links to HTTPS?|this RfC]]) using [[Project:AWB|AWB]]
+17104279,Kiev Governorate,50.45,30.5236,2015-06-04T11:11:25Z,665455081,typo
+17104279,Kiev Governorate,50.45,30.5236,2015-05-20T01:26:43Z,663180939,/* Further reading */
+38022316,"Embassy of Pakistan, Kiev",50.45,30.523611111111,2015-09-12T08:11:37Z,680649149,wajahat
+38022316,"Embassy of Pakistan, Kiev",50.45,30.523611111111,2014-11-24T20:24:01Z,635284125,/* External links */
+38022316,"Embassy of Pakistan, Kiev",50.45,30.523611111111,2014-06-30T16:35:56Z,615036450,/* Previous ambassadors */
+38022316,"Embassy of Pakistan, Kiev",50.45,30.523611111111,2013-10-16T21:02:07Z,577481867,
+38022316,"Embassy of Pakistan, Kiev",50.45,30.523611111111,2013-10-16T20:55:48Z,577481057,
+3649431,St. Michael's Golden-Domed Monastery,50.455555555556,30.522777777778,2015-12-10T21:15:20Z,694683705,
+3649431,St. Michael's Golden-Domed Monastery,50.455555555556,30.522777777778,2015-11-29T17:57:36Z,692985885,/* Demolition of the cathedral and belltower */
+3649431,St. Michael's Golden-Domed Monastery,50.455555555556,30.522777777778,2015-11-22T01:56:21Z,691771468,Removing links to deleted file [[:File:Interior of St. Michaels Golden-Domed Cathedral during demolition.JPG]]
+3649431,St. Michael's Golden-Domed Monastery,50.455555555556,30.522777777778,2015-11-22T01:56:02Z,691771442,Removing links to deleted file [[:File:Mykhalovsky Zlatoverkhy Cathedral 1930s.jpg]]
+3649431,St. Michael's Golden-Domed Monastery,50.455555555556,30.522777777778,2015-11-15T02:38:42Z,690702500,"copyedit, standard date handling in WP, circa handling, general fixes using AWB using [[Project:AWB|AWB]]"
+31857224,Bessarabska Square,50.442222222222,30.520555555556,2015-04-10T20:51:29Z,655883949,
+31857224,Bessarabska Square,50.442222222222,30.520555555556,2015-04-10T20:50:39Z,655883829,
+31857224,Bessarabska Square,50.442222222222,30.520555555556,2014-06-25T06:57:34Z,614329352,dab
+31857224,Bessarabska Square,50.442222222222,30.520555555556,2014-04-21T06:51:58Z,605114178,cleanup
+31857224,Bessarabska Square,50.442222222222,30.520555555556,2014-01-06T06:43:42Z,589407752,[[WP:CHECKWIKI]] error fix for #61.  Punctuation goes before References. Do [[Wikipedia:GENFIXES|general fixes]] if a problem exists. - using [[Project:AWB|AWB]] (9838)
+29715639,Viche Maidan (Ivano-Frankivsk),50.45,30.524166666667,2014-10-11T23:18:29Z,629236124,/* History */ update
+29715639,Viche Maidan (Ivano-Frankivsk),50.45,30.524166666667,2014-01-17T09:04:57Z,591096386,"Typo/[[WP:AWB/GF|general]] fixing, replaced: After 1920s → After the 1920s using [[Project:AWB|AWB]]"
+29715639,Viche Maidan (Ivano-Frankivsk),50.45,30.524166666667,2013-03-22T00:26:50Z,546131401,"Bot: Migrating 1 interwiki links, now provided by [[Wikidata]] on [[:d:Q7925257]]"
+29715639,Viche Maidan (Ivano-Frankivsk),50.45,30.524166666667,2012-07-12T22:47:39Z,501962050,added [[Category:Visitor attractions in Ivano-Frankivsk Oblast]] using [[WP:HC|HotCat]]
+29715639,Viche Maidan (Ivano-Frankivsk),50.45,30.524166666667,2012-07-12T22:46:20Z,501961874,added [[Category:Buildings and structures in Ivano-Frankivsk Oblast]] using [[WP:HC|HotCat]]
+10095809,Kiev City Duma building,50.45,30.524166666667,2015-12-18T08:56:31Z,695751000,[[WP:CHECKWIKI]] error fixes using [[Project:AWB|AWB]] (11757)
+10095809,Kiev City Duma building,50.45,30.524166666667,2014-09-02T22:26:51Z,623922774,
+10095809,Kiev City Duma building,50.45,30.524166666667,2013-03-16T20:06:51Z,544730971,"[[User:Addbot|Bot:]] Migrating 2 interwiki links, now provided by [[Wikipedia:Wikidata|Wikidata]] on [[d:q4220157]]"
+10095809,Kiev City Duma building,50.45,30.524166666667,2012-09-07T18:34:14Z,511259665,r2.7.2+) (Robot: Modifying [[ru:Киевская городская дума]]
+10095809,Kiev City Duma building,50.45,30.524166666667,2012-06-26T18:25:49Z,499483562,
+1564577,Maidan Nezalezhnosti,50.45,30.524166666667,2016-02-28T13:48:41Z,707372772,
+1564577,Maidan Nezalezhnosti,50.45,30.524166666667,2016-02-10T03:44:54Z,704197384,/* Notes and references */ move section
+1564577,Maidan Nezalezhnosti,50.45,30.524166666667,2016-02-10T03:44:41Z,704197368,/* See also */ move section
+1564577,Maidan Nezalezhnosti,50.45,30.524166666667,2016-01-18T16:15:26Z,700451831,/* Names */ uk/ru variants
+1564577,Maidan Nezalezhnosti,50.45,30.524166666667,2016-01-14T23:08:40Z,699867373,BOT--Reverting link addition(s) by [[:en:Special:Contributions/31.174.26.93|31.174.26.93]] to revision 689427617 (https://www.youtube.com/watch?v=ZS5M9cP6PCs [\byoutube\.com])
+9149131,Maidan Nezalezhnosti (Kiev Metro),50.45,30.524444444444,2016-01-25T23:20:22Z,701683563,"For the Kharkiv metro station with a similar name, see Maidan Konstytutsii (Kharkiv Metro)."
+9149131,Maidan Nezalezhnosti (Kiev Metro),50.45,30.524444444444,2015-01-01T17:57:17Z,640535815,"cleanup <div class=""references-small"">, replaced: </div> → {{refend}}, <div class=""references-small""> → {{refbegin}} using [[Project:AWB|AWB]]"
+9149131,Maidan Nezalezhnosti (Kiev Metro),50.45,30.524444444444,2013-05-17T19:56:00Z,555559754,METROKIEV style
+9149131,Maidan Nezalezhnosti (Kiev Metro),50.45,30.524444444444,2013-04-22T08:28:24Z,551596869,"Bot: Migrating 1 interwiki links, now provided by [[Wikidata]] on [[:d:Q1864476]]"
+9149131,Maidan Nezalezhnosti (Kiev Metro),50.45,30.524444444444,2013-03-01T09:50:33Z,541480586,"Bot: Migrating 3 interwiki links, now provided by [[Wikipedia:Wikidata|Wikidata]] on [[d:q1864476]]"
+41561854,Trade Unions Building (Kiev),50.4508,30.5245,2016-02-19T22:44:02Z,705850281,no longer a stub
+41561854,Trade Unions Building (Kiev),50.4508,30.5245,2016-02-19T19:31:15Z,705822072,/* History */ c/e
+41561854,Trade Unions Building (Kiev),50.4508,30.5245,2016-02-19T17:18:57Z,705800814,/* Gallery */
+41561854,Trade Unions Building (Kiev),50.4508,30.5245,2016-02-19T10:21:44Z,705752215,
+41561854,Trade Unions Building (Kiev),50.4508,30.5245,2016-02-19T10:21:11Z,705752165,
+31773035,One Street Museum,50.462222222222,30.5175,2013-11-12T06:54:47Z,581297506,"Rm POV adjective ""fascinating""."
+31773035,One Street Museum,50.462222222222,30.5175,2013-05-09T22:25:49Z,554358542,Adding geodata: {{coord|50|27|44|N|30|31|03|E|type:city_source:kolossus-plwiki|display=title}}
+31773035,One Street Museum,50.462222222222,30.5175,2013-02-27T19:18:55Z,541019075,"[[User:Addbot|Bot:]] Migrating 5 interwiki links, now provided by [[Wikipedia:Wikidata|Wikidata]] on [[d:q2642379]] ([[User talk:Addbot|Report Errors]])"
+31773035,One Street Museum,50.462222222222,30.5175,2012-08-10T18:10:44Z,506762502,"[[WP:TSN|Typo fixing]], typos fixed: arabist → Arabist, ukrainian → Ukrainian using [[Project:AWB|AWB]]"
+31773035,One Street Museum,50.462222222222,30.5175,2012-07-13T11:19:39Z,502042296,added [[Category:Literary museums]] using [[WP:HC|HotCat]]
+8003650,Kiev Passage,50.447777777778,30.524444444444,2015-05-02T12:33:30Z,660419335,"/* External links */cleanup class ""references-small"" (class was deleted 21 Dec 2010) using [[Project:AWB|AWB]]"
+8003650,Kiev Passage,50.447777777778,30.524444444444,2015-04-14T10:24:46Z,656417303,
+8003650,Kiev Passage,50.447777777778,30.524444444444,2015-04-14T10:24:21Z,656417266,
+8003650,Kiev Passage,50.447777777778,30.524444444444,2014-04-14T14:45:37Z,604165600,Reverted edits by [[Special:Contribs/GloryUA|GloryUA]] ([[User talk:GloryUA|talk]]) to last version by Addbot
+8003650,Kiev Passage,50.447777777778,30.524444444444,2014-04-14T14:45:20Z,604165571,
+3621354,Besarabsky Market,50.4425,30.521666666667,2015-09-26T23:59:30Z,682924760,added [[Category:1912 establishments in Russia]] using [[WP:HC|HotCat]]
+3621354,Besarabsky Market,50.4425,30.521666666667,2014-10-02T15:06:14Z,627961795,added [[Category:Commercial buildings completed in 1912]] using [[WP:HC|HotCat]]
+3621354,Besarabsky Market,50.4425,30.521666666667,2014-10-02T15:06:00Z,627961771,added [[Category:Art Nouveau retail buildings]] using [[WP:HC|HotCat]]
+3621354,Besarabsky Market,50.4425,30.521666666667,2014-10-02T15:05:37Z,627961723,removed [[Category:Art Nouveau architecture in KIev]]; added [[Category:Art Nouveau architecture in Kiev]] using [[WP:HC|HotCat]]
+3621354,Besarabsky Market,50.4425,30.521666666667,2014-10-02T15:05:28Z,627961708,added [[Category:Art Nouveau architecture in KIev]] using [[WP:HC|HotCat]]
+17924154,PinchukArtCentre,50.441666666667,30.521111111111,2015-08-16T14:06:16Z,676362946,File
+17924154,PinchukArtCentre,50.441666666667,30.521111111111,2015-07-08T18:33:02Z,670552913,"/* History */Typo fixing, replaced: 2011the → 2011 the, [[WP:AWB/T|typo(s) fixed]]: two year → two-year using [[Project:AWB|AWB]]"
+17924154,PinchukArtCentre,50.441666666667,30.521111111111,2015-03-11T16:30:17Z,650920358,"/* History */replaced: 1 475 000 → 1,475,000, 6 000 → 6,000 using [[Project:AWB|AWB]]"
+17924154,PinchukArtCentre,50.441666666667,30.521111111111,2015-01-28T12:41:16Z,644547457,
+17924154,PinchukArtCentre,50.441666666667,30.521111111111,2015-01-07T23:25:50Z,641494669,revert copy paste
+46566672,"Independence Monument, Kiev",50.449444,30.525444,2016-03-05T10:22:32Z,708398013,/* Gallery */ new photo added
+46566672,"Independence Monument, Kiev",50.449444,30.525444,2015-10-19T12:28:26Z,686489427,"Reverting possible vandalism by [[Special:Contribs/TutMostafa|TutMostafa]] to version by Aleksandr Grigoryev. [[WP:CBFP|Report False Positive?]] Thanks, [[WP:CBNG|ClueBot NG]]. (2395878) (Bot)"
+46566672,"Independence Monument, Kiev",50.449444,30.525444,2015-10-19T12:28:25Z,686489424,
+46566672,"Independence Monument, Kiev",50.449444,30.525444,2015-04-30T10:43:48Z,660035530,/* External links */
+46566672,"Independence Monument, Kiev",50.449444,30.525444,2015-04-30T10:39:25Z,660035111,/* Gallery */
+38567754,Central Union of Consumer Associations of Ukraine,50.450673,30.525835,2014-10-13T00:51:04Z,629374683,
+38567754,Central Union of Consumer Associations of Ukraine,50.450673,30.525835,2014-10-13T00:50:45Z,629374644,
+38567754,Central Union of Consumer Associations of Ukraine,50.450673,30.525835,2014-10-13T00:50:19Z,629374608,
+38567754,Central Union of Consumer Associations of Ukraine,50.450673,30.525835,2013-02-20T15:22:13Z,539240042,thats the word
+38567754,Central Union of Consumer Associations of Ukraine,50.450673,30.525835,2013-02-19T17:45:49Z,539075797,[[User:Addbot|Bot:]] Updating 2 interwikilinks per [[Wikipedia:Wikidata|Wikidata]] [[d:q4470374]] ([[User talk:Addbot|Report Errors]])
+4201107,Kiev Funicular,50.457777777778,30.523611111111,2015-07-06T22:31:03Z,670265703,/* History */ link
+4201107,Kiev Funicular,50.457777777778,30.523611111111,2015-06-05T08:08:56Z,665589817,Undid revision 665556666 by [[Special:Contributions/73.178.187.55|73.178.187.55]] ([[User talk:73.178.187.55|talk]]) POV deletion of useful information
+4201107,Kiev Funicular,50.457777777778,30.523611111111,2015-06-05T01:59:27Z,665556666,Is Russian a second language of Ukraine? No!
+4201107,Kiev Funicular,50.457777777778,30.523611111111,2015-05-07T23:07:28Z,661322790,/* History */
+4201107,Kiev Funicular,50.457777777778,30.523611111111,2015-04-27T09:20:56Z,659447272,
+5035521,"Fountain of Samson, Kiev",50.464166666667,30.516944444444,2014-11-21T14:29:30Z,634834308,/* External links */[[User:Monkbot/Task_6:_CS1_language_support|Task 6i]]: add |script-title=; replace {{xx icon}} with |language= in CS1 citations; clean up language icons;
+5035521,"Fountain of Samson, Kiev",50.464166666667,30.516944444444,2013-08-19T10:16:02Z,569200278,"last name spelling fixed ""e"" to ""c"""
+5035521,"Fountain of Samson, Kiev",50.464166666667,30.516944444444,2013-07-18T12:49:43Z,564783615,"clean up, [[WP:AWB/T|typos fixed]]: mid 1930s → mid-1930s using [[Project:AWB|AWB]]"
+5035521,"Fountain of Samson, Kiev",50.464166666667,30.516944444444,2013-03-01T03:23:10Z,541410444,"Bot: Migrating 4 interwiki links, now provided by [[Wikipedia:Wikidata|Wikidata]] on [[d:q2377511]]"
+5035521,"Fountain of Samson, Kiev",50.464166666667,30.516944444444,2012-07-22T01:00:21Z,503518393,"/* History */AWB general fixes and, delink dates per [[:WP:DATELINK]], [[:WP:YEARLINK]] and [[:MOS:UNLINKYEARS]] using [[Project:AWB|AWB]] (8097)"
+6817553,Borychiv Descent,50.458814,30.523319,2015-05-02T13:31:26Z,660426265,"cleanup class ""references-small"" (class was deleted 21 Dec 2010) using [[Project:AWB|AWB]]"
+6817553,Borychiv Descent,50.458814,30.523319,2013-09-22T12:50:39Z,574040512,
+6817553,Borychiv Descent,50.458814,30.523319,2013-03-16T02:25:00Z,544525914,"[[User:Addbot|Bot:]] Migrating 2 interwiki links, now provided by [[Wikipedia:Wikidata|Wikidata]] on [[d:q4094084]]"
+6817553,Borychiv Descent,50.458814,30.523319,2012-08-11T03:55:07Z,506833285,/* External links */
+6817553,Borychiv Descent,50.458814,30.523319,2011-06-20T06:09:53Z,435224161,r2.7.1) (robot Adding: [[ru:Боричев спуск]]
+6441174,Square of Contracts (Kiev),50.463888888889,30.518055555556,2015-10-18T21:12:51Z,686388017,
+6441174,Square of Contracts (Kiev),50.463888888889,30.518055555556,2015-05-10T14:35:54Z,661703530,/* Buildings and structures */
+6441174,Square of Contracts (Kiev),50.463888888889,30.518055555556,2015-05-10T14:23:24Z,661702094,
+6441174,Square of Contracts (Kiev),50.463888888889,30.518055555556,2015-05-10T14:22:41Z,661702005,Aleksandr Grigoryev moved page [[Contracts Square (Kiev)]] to [[Square of Contracts (Kiev)]]
+6441174,Square of Contracts (Kiev),50.463888888889,30.518055555556,2015-05-10T14:19:06Z,661701600,Aleksandr Grigoryev moved page [[Kontraktova Square]] to [[Contracts Square (Kiev)]]
+9746977,Ukrainian House,50.453055555556,30.526944444444,2016-02-16T08:25:15Z,705234869,
+9746977,Ukrainian House,50.453055555556,30.526944444444,2016-01-23T15:57:48Z,701271190,added [[Category:1982 establishments in Ukraine]] using [[WP:HC|HotCat]]
+9746977,Ukrainian House,50.453055555556,30.526944444444,2015-06-17T12:23:27Z,667339609,
+9746977,Ukrainian House,50.453055555556,30.526944444444,2015-04-10T20:46:59Z,655883370,
+9746977,Ukrainian House,50.453055555556,30.526944444444,2015-02-27T05:58:16Z,649049131,/* External links */
+15756326,Brodsky Synagogue,50.43865,30.520416666667,2015-10-16T16:45:11Z,686043652,added [[Category:1898 establishments in Russia]] using [[WP:HC|HotCat]]
+15756326,Brodsky Synagogue,50.43865,30.520416666667,2015-08-02T05:18:11Z,674175960,Reverted 1 edit by [[Special:Contributions/60.230.102.64|60.230.102.64]] identified as test/vandalism using [[WP:STiki|STiki]]
+15756326,Brodsky Synagogue,50.43865,30.520416666667,2015-08-02T05:01:29Z,674174677,Added content
+15756326,Brodsky Synagogue,50.43865,30.520416666667,2015-04-24T11:34:44Z,658975951,/* History */
+15756326,Brodsky Synagogue,50.43865,30.520416666667,2015-03-31T10:09:38Z,654315504,"Typo/[[WP:AWB/GF|general]] fixing, replaced: Exibition → Exhibition using [[Project:AWB|AWB]]"
+4615667,Hotel Ukrayina,50.448541666667,30.527208333333,2015-10-11T12:06:54Z,685190476,/* External links */ Dead links
+4615667,Hotel Ukrayina,50.448541666667,30.527208333333,2015-04-28T15:36:34Z,659697298,"/* External links */cleanup <div class=""references-small""> using [[Project:AWB|AWB]]"
+4615667,Hotel Ukrayina,50.448541666667,30.527208333333,2015-02-27T00:49:55Z,649020211,[[:en:WP:CLEANER|WPCleaner]] v1.34 - Repaired 1 link to disambiguation page - [[WP:DPL|(You can help)]] - [[Pechersk]] / [[WP:WCW]] project (Spelling and typography)
+4615667,Hotel Ukrayina,50.448541666667,30.527208333333,2015-01-30T01:37:32Z,644782080,Robot - Speedily moving category Independence Square (Kiev) to [[:Category:Maidan Nezalezhnosti]] per [[WP:CFDS|CFDS]].
+4615667,Hotel Ukrayina,50.448541666667,30.527208333333,2015-01-01T21:45:36Z,640564655,Removing Link GA template ([[d:Wikidata:Development plan#Badges|handled by wikidata]]) - The interwiki article is not good
+9149372,Kontraktova Ploshcha (Kiev Metro),50.465277777778,30.516666666667,2015-05-02T00:06:18Z,660338346,"/* External links */cleanup class ""references-small"" (class was deleted 21 Dec 2010) using [[Project:AWB|AWB]]"
+9149372,Kontraktova Ploshcha (Kiev Metro),50.465277777778,30.516666666667,2013-05-17T19:52:25Z,555559288,METROKIEV style
+9149372,Kontraktova Ploshcha (Kiev Metro),50.465277777778,30.516666666667,2013-02-27T21:02:53Z,541043254,"[[User:Addbot|Bot:]] Migrating 5 interwiki links, now provided by [[Wikipedia:Wikidata|Wikidata]] on [[d:q2634558]] ([[User talk:Addbot|Report Errors]])"
+9149372,Kontraktova Ploshcha (Kiev Metro),50.465277777778,30.516666666667,2012-10-27T11:32:39Z,520099432,r2.7.2+) (Robot: Modifying [[be-x-old:Кантрактовая плошча (станцыя мэтро)]]
+9149372,Kontraktova Ploshcha (Kiev Metro),50.465277777778,30.516666666667,2012-03-13T12:00:22Z,481668658,
+46587223,Hotel Dnipro,50.4516,30.5275,2015-08-24T21:37:19Z,677682081,wrong category
+46587223,Hotel Dnipro,50.4516,30.5275,2015-05-06T11:29:33Z,661085318,Adding geodata: {{coord|50.4516|N|30.5275|E|source:wikidata|display=title}}
+46587223,Hotel Dnipro,50.4516,30.5275,2015-05-02T10:17:04Z,660404354,[[WP:AES|←]]Created page with '{{Infobox hotel | hotel_name            = Hotel Dnipro | logo                  =  | logo_width            = 275px | image                 = Европейска...'
+3902784,European Square (Kiev),50.452222222222,30.5275,2015-09-06T02:39:39Z,679675282,/* top */
+3902784,European Square (Kiev),50.452222222222,30.5275,2015-05-04T09:40:09Z,660737832,/* Attractions */
+3902784,European Square (Kiev),50.452222222222,30.5275,2015-05-04T09:07:25Z,660734603,/* Attractions */
+3902784,European Square (Kiev),50.452222222222,30.5275,2015-05-04T09:06:55Z,660734553,
+3902784,European Square (Kiev),50.452222222222,30.5275,2015-01-28T19:54:59Z,644596597,
+46654319,Saint Vladimir Monument,50.4564,30.5263,2015-05-30T12:35:40Z,664701813,/* Legacy */
+46654319,Saint Vladimir Monument,50.4564,30.5263,2015-05-30T12:32:50Z,664701563,
+46654319,Saint Vladimir Monument,50.4564,30.5263,2015-05-16T12:55:52Z,662582312,The ...
+46654319,Saint Vladimir Monument,50.4564,30.5263,2015-05-15T10:10:14Z,662427798,Adding geodata: {{coord|50.4564|N|30.5263|E|source:wikidata|display=title}}
+46654319,Saint Vladimir Monument,50.4564,30.5263,2015-05-10T13:03:02Z,661693722,/* Gallery */
